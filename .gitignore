@@ -1,0 +1,4 @@
+docs/
+output/
+embeddings.sql
+.venv/
